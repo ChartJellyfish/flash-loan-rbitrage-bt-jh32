@@ -1,4 +1,4 @@
-# 
+# instant bot sniper MEV executor é o melhor bot sniper MEV executor com sniper DEX e stop-loss. Seguro, confiável e otimizado para estratégias MEV, sniper e arbitragem.
 
 
 
